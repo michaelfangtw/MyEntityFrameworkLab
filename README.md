@@ -4,7 +4,7 @@ This is a Data Access Layer(DAL) sample that built with EntityFramework 6 <br>
 ```
 Models\Repository  (Data Access Layer)
 Models\Service     (Business Logic Layer)
-Models\ViewModel   (ViewModel for displaying some data in View)
+Models\ViewModel   (ViewModel for displaying data in View)
 ```
 
 Installation
