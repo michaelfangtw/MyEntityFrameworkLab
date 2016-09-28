@@ -10,7 +10,7 @@ Models\ViewModel   (ViewModel for displaying data in View)
 Installation
 ------------
 ```
-git clone MySingletonMultiDatabase https://github.com/michaelfangtw/MyEntityFrameworkLab.git
+git clone MyEntityFrameworkLab https://github.com/michaelfangtw/MyEntityFrameworkLab.git
 ```
 
 Git Notes
