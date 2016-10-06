@@ -1,0 +1,142 @@
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\obj\Debug\MyEntityFrameworkLab.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\ApplicationInsights.config
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\csc.exe
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\vbc.exe
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\MyEntityFrameworkLab.dll.config
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\MyEntityFrameworkLab.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\MyEntityFrameworkLab.pdb
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.SqlServer.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.Web.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Owin.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Newtonsoft.Json.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Owin.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Helpers.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Mvc.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Razor.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\WebActivatorEx.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.SqlServer.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.Web.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Owin.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Newtonsoft.Json.pdb
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Newtonsoft.Json.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Razor.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Helpers.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Mvc.xml
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\EntityFramework.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\obj\Debug\MyEntityFrameworkLab.dll
+D:\Projects\Visual Studio 2015\MyEntityFrameworkLab\MyEntityFrameworkLab\obj\Debug\MyEntityFrameworkLab.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\ApplicationInsights.config
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\csc.exe
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\System.Collections.Immutable.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\System.Reflection.Metadata.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\vbc.exe
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\VBCSCompiler.exe
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\roslyn\VBCSCompiler.exe.config
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\MyEntityFrameworkLab.dll.config
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\MyEntityFrameworkLab.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\MyEntityFrameworkLab.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.SqlServer.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.Agent.Intercept.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.DependencyCollector.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.Web.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.WindowsServer.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.ApplicationInsights.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Owin.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Web.Infrastructure.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Newtonsoft.Json.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Owin.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Helpers.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Mvc.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Razor.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Deployment.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Razor.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\WebActivatorEx.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\EntityFramework.SqlServer.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.DependencyCollector.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.Web.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.AI.WindowsServer.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.ApplicationInsights.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Owin.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Newtonsoft.Json.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\Newtonsoft.Json.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Razor.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Deployment.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Webpages.Razor.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Helpers.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\System.Web.Mvc.xml
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\EntityFramework.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\obj\Debug\MyEntityFrameworkLab.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\obj\Debug\MyEntityFrameworkLab.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyEntityFrameworkLab\MyEntityFrameworkLab\obj\Debug\MyEntityFrameworkLab.csprojResolveAssemblyReference.cache
